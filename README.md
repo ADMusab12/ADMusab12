@@ -143,11 +143,6 @@ Advanced step tracking with gamification
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADMusab12&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" />
 </div>
 
-## 🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADMusab12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
