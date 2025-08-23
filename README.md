@@ -76,7 +76,6 @@ I'm a passionate **Android Developer** from Islamabad, Pakistan 🇵🇰 with **
 ## 🏆 Featured Projects
 
 ### 🩸 Blood Donation Application (Final Year Project)
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/ADMusab12/BloodDonationApp)
 ```
 Mobile blood donation app connecting donors with blood banks
 ✨ Features: Real-time availability tracking, Emergency requests
@@ -85,7 +84,7 @@ Mobile blood donation app connecting donors with blood banks
 ```
 
 ### 😴 Sleep Sound - Wellness App
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/ADMusab12/SleepSoundApp)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=meditation.sleep.mindfulness.calm&hl=es)
 ```
 Relaxation app with multi-track music playback
 ✨ Features: ExoPlayer integration, Background services, Fragment architecture
@@ -94,7 +93,7 @@ Relaxation app with multi-track music playback
 ```
 
 ### 🌍 Language Translator - AI Powered
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/ADMusab12/LanguageTranslator)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.speak.language.translator&hl=es)
 ```
 Real-time speech recognition and translation
 ✨ Features: ML Kit integration, Voice recognition, Offline storage
@@ -103,7 +102,7 @@ Real-time speech recognition and translation
 ```
 
 ### 🛰️ Live Satellite View - 3D Globe
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/ADMusab12/LiveSatelliteView)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.live.earth.map.explore.world.map&hl=es)
 ```
 Interactive 3D globe with real-time map exploration
 ✨ Features: 3D globe rendering, Satellite imagery, Global navigation
@@ -112,7 +111,7 @@ Interactive 3D globe with real-time map exploration
 ```
 
 ### 🩺 Blood Pressure Tracker - Health Monitor
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/ADMusab12/BloodPressureTracker)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.blood.pressure.data.tracker&hl=es)
 ```
 Comprehensive health monitoring solution
 ✨ Features: BP tracking, BMI calculation, Health records
@@ -121,7 +120,7 @@ Comprehensive health monitoring solution
 ```
 
 ### 🚶‍♂️ Pedometer - Fitness Tracker
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/ADMusab12/PedometerApp)
+[![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.pedometer.steptracker.walkingtracker.calorieburner.stepcounter&hl=es)
 ```
 Advanced step tracking with gamification
 ✨ Features: Background tracking, Leaderboards, Achievements, Badges
@@ -200,18 +199,13 @@ CGPA: 2.99/4.0
 </tr>
 </table>
 
-## 🎯 Professional Goals
+## 🎯 2024-2025 Professional Goals
 
 - [ ] Lead development of enterprise-level Android applications
 - [ ] Contribute to open-source projects
 - [ ] Master Kotlin Multiplatform and Compose Multiplatform
 - [ ] Publish educational content on Android development best practices
 - [ ] Mentor junior developers and contribute to tech community
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github.com/ADMusab12/ADMusab12/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ## 📞 Let's Connect!
 
