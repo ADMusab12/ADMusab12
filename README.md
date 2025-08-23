@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Musab Ahmad
+# Hi there! 👋 I'm Musab Umair
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+%26+Jetpack+Compose+Expert;Mobile+App+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -112,32 +112,6 @@ Voice-enabled calculator with modern design
   <img src="https://github-profile-trophy.vercel.app/?username=ADMusab12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
-## 🌟 Skills Breakdown
-
-```kotlin
-class AndroidDeveloper {
-    val name = "Musab Ahmad"
-    val role = "Android Developer"
-    
-    val primarySkills = listOf(
-        "Kotlin", "Jetpack Compose", "MVVM Architecture",
-        "Room Database", "Retrofit", "Coroutines"
-    )
-    
-    val frameworks = listOf(
-        "Android SDK", "Jetpack Libraries", 
-        "Material Design", "Flutter"
-    )
-    
-    val tools = listOf(
-        "Android Studio", "Git", "Firebase",
-        "AdMob", "Pixabay API"
-    )
-    
-    fun getCurrentFocus() = "Building amazing Android apps with Jetpack Compose"
-}
-```
-
 ## 📱 Project Categories
 
 <table>
@@ -174,14 +148,6 @@ class AndroidDeveloper {
 </tr>
 </table>
 
-## 🎯 2024-2025 Goals
-
-- [ ] Contribute to major open-source Android projects
-- [ ] Master Kotlin Multiplatform development
-- [ ] Build and publish apps on Google Play Store
-- [ ] Create comprehensive Android development tutorials
-- [ ] Explore AI integration in mobile apps
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github.com/ADMusab12/ADMusab12/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -192,9 +158,8 @@ class AndroidDeveloper {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADMusab12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/musab-umair-30162a241/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musab.umair395@gmail.com)
 
 </div>
 
