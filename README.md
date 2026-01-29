@@ -21,7 +21,7 @@ I'm a passionate **Android Developer** from Islamabad, Pakistan 🇵🇰 with **
 
 ## 💼 Professional Experience
 
-### 🏢 Associate Android Developer | **Trino Technologies** 
+### 🏢 Android Developer | **Trino Technologies** 
 *May 2024 – Present*
 - 🗺️ Maintain and enhance **mapping/geolocation apps** with satellite functionality
 - 🗣️ Support **language translation apps** with voice recognition features  
