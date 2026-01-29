@@ -13,7 +13,7 @@
 
 I'm a passionate **Android Developer** from Islamabad, Pakistan 🇵🇰 with **2+ years of professional experience** building high-performance mobile applications. I specialize in modern Android development with **Kotlin**, **Jetpack Compose**, and **MVVM architecture**.
 
-- 🔭 Currently working as **Associate Android Developer** at **Trino Technologies**
+- 🔭 Currently working as **Android Developer** at **Trino Technologies**
 - 🌱 Expert in **Jetpack Compose**, **Coroutines**, and **Firebase integrations**
 - 💡 Passionate about **Clean Architecture** and **Scalable Mobile Solutions**
 - 📱 Building apps that solve real-world problems in health, mapping, and productivity
